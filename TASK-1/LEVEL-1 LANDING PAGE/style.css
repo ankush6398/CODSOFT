@@ -49,6 +49,10 @@ body{
     color: #222;
     margin: 6px;
 }
+#nav #part2 a:hover{
+    text-decoration: underline;
+     
+}
 #nav #part2 a:nth-last-child(1){
     padding:3px 18px;
     border-radius: 50px;
